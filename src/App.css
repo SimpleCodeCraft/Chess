@@ -1,0 +1,16 @@
+.root{
+display: grid;
+grid-template-columns: 1fr 2fr 1fr;
+/* grid-template-rows: 1fr 12fr; */
+
+justify-items: center;
+align-items: center;
+
+min-width: 100%;
+max-width: 100%;
+min-height: 100vh;
+max-height: 100vh;
+
+background-color: #F5F5F5;
+}
+

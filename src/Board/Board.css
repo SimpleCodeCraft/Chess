@@ -1,0 +1,15 @@
+.conteiner {
+grid-column: 2 / 3;
+/* grid-row: 2 / 2; */
+
+height: 71vh;
+width: 71vh;
+max-width: 71vh;
+max-height: 71vh;
+
+display: grid;
+grid-template-columns: 1fr 13fr 1fr;
+grid-template-rows: 1fr 13fr 1fr;
+
+border: 1px solid black;
+}
